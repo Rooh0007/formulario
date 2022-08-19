@@ -1,0 +1,42 @@
+body{
+    margin:0;
+    padding:0;
+    background:linear-gradient(180deg, #000000, #76fb55, #76fb55, #000000);
+}
+
+main{
+    padding: 20px;
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 35%;
+    background-color: #fff;
+    border: 1px solid;
+    height: 240px;
+    width: 250px;
+    border-radius: 90px 90px 0px 90px;
+    box-shadow: 12px 13px 7px -5px #000;
+    color: rgb(0, 0, 0);
+}
+
+textarea {
+   background-color:rgba(68, 252, 224, 0.385);
+   color: #999;
+   border-radius:20px 20px 20px 20px;
+   border:transparent;
+   padding: 5px;
+   margin: 2px;
+}
+
+button{
+    background-color:#e5fc1b;
+    padding: 17px;
+    margin: 15px;
+    border-radius:25px 25px 25px 25px;
+    width: 175px;
+    height: 51px;
+}
+
+legend{
+    padding-inline-end: 5px;
+    padding-inline-start: 5px;
+}
